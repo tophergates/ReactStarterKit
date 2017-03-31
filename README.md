@@ -7,7 +7,7 @@ Yet another starter kit for quickly setting up a new React project with Redux.
 Clone the starter kit repository, install dependencies, and fire up the development server:
 
 ```
-git clone <https://github.com/tophergates/ReactStarterKit.git> your-project
+git clone https://github.com/tophergates/ReactStarterKit.git your-project
 cd your-project
 npm install
 npm run serve
@@ -65,7 +65,7 @@ To eliminate my own frustrations, and hopefully yours, here's how we get rolling
 
 **1. Clone the Starter Kit**
 ```
-git clone <https://github.com/tophergates/ReactStarterKit.git> your-project
+git clone https://github.com/tophergates/ReactStarterKit.git your-project
 ```
 *Note that `your-project` is just an example project folder name, name this whatever you want*
 
@@ -110,4 +110,5 @@ git push
 
 # MADE WITH <3
 I hope this starter kit helps you streamline the process of setting up a new project. Happy coding!
-[tophergates](https://github.com/tophergates)
+
+<3 [tophergates](https://github.com/tophergates)
