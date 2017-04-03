@@ -117,7 +117,7 @@ git push
 
 ---
 
-# MADE WITH <3
+# MADE WITH :heart:
 I hope this starter kit helps you streamline the process of setting up a new project. Happy coding!
 
-<3 [tophergates](https://github.com/tophergates)
+:heart: [tophergates](https://github.com/tophergates)
