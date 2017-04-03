@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function Footer() {
+export default () => {
   return (
     <footer>
       <p>
@@ -11,5 +11,5 @@ export default function Footer() {
         <span>by tophergates</span>
       </p>
     </footer>
-  );
+  )
 }

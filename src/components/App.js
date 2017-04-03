@@ -1,16 +1,18 @@
 import React from 'react';
 
-import Footer from './Footer';
-import Header from './Header';
-import Main from './Main';
+import ContentBody from './layout/ContentBody';
+import Footer from './layout/Footer';
+import Header from './layout/Header';
 import '../styles/App.scss';
 
-export default function App() {
+export default (props) => {
   return (
     <div className='container'>
       <Header />
-      <Main />
+      <main>
+        <ContentBody page={props.children} />
+      </main>
       <Footer />
     </div>
-  );
+  )
 }
