@@ -1,5 +1,5 @@
 import React from 'react';
-import { Router, Route, IndexRoute, browserHistory } from 'react-router';
+import { Router, Route, IndexRoute, hashHistory } from 'react-router';
 
 import App from './components/App';
 import HomePage from './components/pages/HomePage';
@@ -8,7 +8,7 @@ import NotFoundPage from './components/pages/NotFoundPage';
 
 export default () => {
   return (
-    <Router history={browserHistory}>
+    <Router history={hashHistory}>
       <Route path='/' component={App}>
         <IndexRoute component={HomePage} />
         <Route path='/redux' component={BooksPage} />

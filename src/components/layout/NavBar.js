@@ -8,6 +8,7 @@ export default () => {
       <ul>
         <NavLink to='/'>Home</NavLink>
         <NavLink to='/redux'>Redux Example</NavLink>
+        <NavLink to='/404'>404 Page</NavLink>
       </ul>
     </nav>
   )
