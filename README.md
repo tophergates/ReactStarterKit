@@ -109,10 +109,10 @@ git push
 ---
 
 # POSSIBLE IMPROVEMENTS
-- [X] Include basic routing example in the starter template.
-- [X] Include basic redux example in the starter template.
-- [X] Abstract Redux Store configuration away from application entry point. *Thanks @github/donthedeveloper*
-- [] Implement Express server for client and server side routing. (isometric)
+[X] Include basic routing example in the starter template.
+[X] Include basic redux example in the starter template.
+[X] Abstract Redux Store configuration away from application entry point. *Thanks [donthedeveloper](https://github.com/donthedeveloper)*
+[] Implement Express server for client and server side routing. (isometric)
 
 ---
 
