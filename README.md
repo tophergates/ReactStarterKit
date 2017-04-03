@@ -112,6 +112,7 @@ git push
 - [X] Include basic routing example in the starter template.
 - [X] Include basic redux example in the starter template.
 - [X] Abstract Redux Store configuration away from application entry point. *Thanks [donthedeveloper](https://github.com/donthedeveloper)*
+- [X] Add noscript to template HTML page in case JavaScript is disabled.
 - [ ] Implement Express server for client and server side routing. (isometric)
 
 ---
